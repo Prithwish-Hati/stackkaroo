@@ -4,7 +4,7 @@ import { digitalServices } from "@/constants";
 
 const DigitalServices = () => {
   return (
-    <section id="" className="px-10 py-8 text-center">
+    <section id="services" className="px-10 py-8 text-center">
       <h2 className="heading2">Stackkaroo&apos;s Digital Services</h2>
       <p className="subheading my-4 md:mx-10">
         We excel with reliability, innovation and customer-centric approach for
