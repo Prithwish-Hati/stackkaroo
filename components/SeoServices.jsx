@@ -3,7 +3,7 @@ import { seoServices } from "@/constants";
 
 const SeoServices = () => {
   return (
-    <section id="" className="max-lg:my-16 lg:px-10 lg:py-8">
+    <section id="team" className="max-lg:my-16 lg:px-10 lg:py-8">
       <div className="bg-white-gradient p-10 lg:rounded-2xl mt-4 lg:mt-8">
         
         <h2 className="heading2 text-center">SEO Services</h2>

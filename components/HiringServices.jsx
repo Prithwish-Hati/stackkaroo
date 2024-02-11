@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const HiringServices = () => {
   return (
-    <section id="" className="px-10 py-8 text-center">
+    <section id="contact-us" className="px-10 py-8 text-center">
       <h2 className="heading2">
         Stackkaroo&apos; s Talent Hiring and Job Placement Services{" "}
       </h2>
