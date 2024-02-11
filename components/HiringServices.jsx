@@ -19,7 +19,7 @@ const HiringServices = () => {
         {hiringServices.map((service) => (
           <article
             key={service.id}
-            className="bg-white p-8 rounded-2xl w-[350px] h-[350px] max-lg:min-w-[350px] flex flex-col items-center border-gray-1 border-1 shadow-gray"
+            className="bg-white p-8 rounded-2xl lg:w-[350px] h-[350px]  max-lg:min-w-[300px] flex flex-col items-center border-gray-1 border-1 shadow-gray"
           >
             <Image
               src={service.icon}

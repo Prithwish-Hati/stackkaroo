@@ -16,7 +16,7 @@ const DigitalServices = () => {
         {digitalServices.map((service) => (
           <article
             key={service.id}
-            className="bg-border-gradient p-[1px] rounded-2xl w-[350px] h-[350px] max-lg:min-w-[350px]"
+            className="bg-border-gradient p-[1px] rounded-2xl lg:w-[350px] h-[350px]  max-lg:min-w-[300px]"
           >
             <div className="bg-white w-full h-full rounded-2xl p-8 relative flex flex-col justify-between">
               <div>
