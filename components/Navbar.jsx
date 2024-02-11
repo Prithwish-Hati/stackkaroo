@@ -45,7 +45,7 @@ const Navbar = () => {
 
             <menu
               className={`${toggle ? "flex" : "hidden"} 
-            flex-col text-center absolute right-0 top-8 min-w-32 bg-color-gradient p-5 rounded-2xl`}
+            flex-col text-center absolute right-0 top-8 min-w-32 mobile-nav-gradient p-5 rounded-2xl`}
             >
               {navLinks.map((link) => (
                 <Link

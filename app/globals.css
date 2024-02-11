@@ -56,3 +56,7 @@ body {
 .navLink__mobile {
   @apply font-semibold my-1 transition-all cursor-pointer active:bg-white active:rounded-[6em] active:shadow-gray active:font-medium;
 }
+
+.mobile-nav-gradient{
+  background: linear-gradient(to left, #e68f501a, #0a56f11a), white;
+}
